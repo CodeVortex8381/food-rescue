@@ -1,3 +1,4 @@
+<<<<<<< HEAD
      #    PRD — BhojanSetu
 ## AI-Powered Surplus Food Rescue & Redistribution Platform
 
@@ -1522,3 +1523,9 @@ The actual event problem statement is released by the organizers at the schedule
 # 38. One-Line Pitch
 
 > **BhojanSetu connects surplus food from restaurants, bhandaras, canteens and events with nearby people and organizations who can use it, using smart matching and AI to rescue food before it becomes waste.**
+=======
+# Food Rescue Project
+
+A platform to manage and d    istribute surplus food to prevent wastage and help communities.
+ new changes my cp
+>>>>>>> vedant
